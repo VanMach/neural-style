@@ -1,0 +1,1 @@
+Some example images used by the jupyter notebook
